@@ -84,3 +84,6 @@ h3{margin:.7rem 0 .25rem;font-size:1.2rem}
 
 .logo img{height:68px;mix-blend-mode:lighten}
 @media(max-width:760px){.logo img{height:52px}}
+
+.logo img{height:82px}
+@media(max-width:760px){.logo img{height:62px}}
