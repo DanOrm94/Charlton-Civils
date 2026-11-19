@@ -98,3 +98,7 @@ h3{font-weight:600;font-size:1.1rem;letter-spacing:.01em}
 .nav a{font-weight:600;letter-spacing:.05em;font-size:.9rem;text-transform:uppercase}
 .nav a.btn{font-size:.8rem}
 .card p,.hero p{font-weight:400}
+
+.site-footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.fb-link{color:var(--yellow);text-decoration:none;font-weight:600}
+.fb-link:hover{text-decoration:underline}
