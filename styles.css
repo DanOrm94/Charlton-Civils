@@ -102,3 +102,10 @@ h3{font-weight:600;font-size:1.1rem;letter-spacing:.01em}
 .site-footer .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
 .fb-link{color:var(--yellow);text-decoration:none;font-weight:600}
 .fb-link:hover{text-decoration:underline}
+
+/* Case studies */
+.studies{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.study{background:#fff;border-radius:var(--r);padding:1.4rem;border-top:4px solid var(--yellow);box-shadow:0 1px 3px #0001}
+.study h3{margin:.6rem 0 .4rem}
+.study p{margin:0;color:var(--muted)}
+.tag{font-family:Montserrat,Inter,sans-serif;font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#8a6200}
