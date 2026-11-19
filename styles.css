@@ -87,3 +87,14 @@ h3{margin:.7rem 0 .25rem;font-size:1.2rem}
 
 .logo img{height:82px}
 @media(max-width:760px){.logo img{height:62px}}
+
+/* Typography */
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:1.0625rem;line-height:1.65;-webkit-font-smoothing:antialiased}
+h1,h2,h3,.btn,.nav a{font-family:Montserrat,Inter,system-ui,sans-serif}
+.hero h1{font-weight:800;letter-spacing:.01em;line-height:1.08}
+h2{font-weight:700;letter-spacing:.06em;font-size:1.6rem}
+h3{font-weight:600;font-size:1.1rem;letter-spacing:.01em}
+.btn{font-weight:700;letter-spacing:.08em;font-size:.9rem}
+.nav a{font-weight:600;letter-spacing:.05em;font-size:.9rem;text-transform:uppercase}
+.nav a.btn{font-size:.8rem}
+.card p,.hero p{font-weight:400}
